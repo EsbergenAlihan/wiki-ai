@@ -1,0 +1,4 @@
+.venv/
+.idea/
+__pycache__/
+/wiki_rtx4050_gpt.pt
